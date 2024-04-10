@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpraun
 - 👀 I’m interested in small and useful pieces of software that make work for patent attorneys easier. 
-- 🌱 I’m currently learning python and Hugging Face
+- 🌱 I’m currently working with python and Hugging Face
 - 💞️ I’m currently not looking for collaborators who are willing to help classifying sentences from patent texts.
 - 📫 How to reach me praun@alumni.ethz.ch.
 
